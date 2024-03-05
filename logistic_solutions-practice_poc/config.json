@@ -1,0 +1,13 @@
+{
+    "port_name": "COM6",
+    "baud_rate":115200,
+    "ownerId": "975941652137",
+    "gatewayId": "PTG12345",
+    "gatewayType": "mobile",
+    "gatewayName": "PTGVirtual",
+    "baseUrl":"https://api.wiliot.com",
+    "mqttBroker" : "mqtt.us-east-2.prod.wiliot.cloud",
+    "accessKeyForEdge" : "YzhkZjViYjktNmIzNC00OWM5LTlmM2MtMDExZTg3NTdlODRhOkk1bWVDZTQyUVJXbmJOSUstTGUtaklpWktMVjlKaGVVcXFEekd1WDgxc00=",
+    "sumo_logic_endpoint":"https://endpoint4.collection.sumologic.com/receiver/v1/http/ZaVnC4dhaV3nfvYcipu7A5N1LTR_X3me_R9d-pdNGlyB2Mgdl44HxlACuevC1163-iGAi-xqWX8hXptnoxU53VBCTvvwXIQBwhunF3GSY1Yt27iujTfbRw==",
+    "connectionString": "HostName=logisticsiothub.azure-devices.net;DeviceId=smartLock;SharedAccessKey=t8FUJR7MUUdEunasWkRmIw/QmxVTbnGo2AIoTLSg9qg="
+}
